@@ -1,10 +1,10 @@
-                                                     Vowels_Consonants                                                     
-                      Find number of vowels and consonants in sentences and in the words (multilingual)                      
+# Vowels and consonants                                                     
+### Find number of vowels and consonants in words and sentences (multilingual)                      
 
-                                                     ****** ******   *                                                     
-                                                     *   ** *   **  **                                                        
-                                                     *  * * *  * *   *                                                        
-                                                     *  * * *  * *   *                                                        
-                                                     * *  * * *  *   *                                                        
-                                                     **   * **   *   *                                                        
-                                                     ****** ******  ***                                                       
+    ****** ******   *                                                     
+    *   ** *   **  **                                                        
+    *  * * *  * *   *                                                        
+    *  * * *  * *   *                                                        
+    * *  * * *  *   *                                                        
+    **   * **   *   *                                                        
+    ****** ******  ***                                                       
