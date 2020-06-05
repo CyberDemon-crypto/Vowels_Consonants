@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 """Made by https://github.com/CyberDemon-crypto"""
 alphabet = {"Русский": "АБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯ", "English": "ABCDEFGHIJKLMNOPQRSTUVWXYZ"}
 vowel = {"Русский": "АОУЫЭЯЁЮИЕ", "English": "AEIOU"}
